@@ -1,2 +1,10 @@
 # Team Discipline
-We are the team who write high-quality codes, keep discipline executable, make passion reality.
+
+
+We are the team who 
+
+## Write high-quality codes, 
+
+## Keep discipline executable, 
+
+## Make passion reality.
